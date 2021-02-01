@@ -1,5 +1,3 @@
-* Gambar Tabel Menampilkan data API menggunakan javascript 
-
 # Library yang digunakan
 1. Library Bootstrap untuk tampilannya dengan link https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css
 2. Menggunakan Jquery untuk library javascript https://code.jquery.com/jquery-3.5.1.min.js
