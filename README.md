@@ -7,6 +7,7 @@
 # Alat - Alat yang digunakan
 1. Browser (untuk menjalankan aplikasi web)
 2. Visual Code (untuk teks editor pembuatan aplikasi web)
+3. Link API untuk mengambil data http://jsonplaceholder.typicode.com/users
 
 # Langkah - Langkah Menjalankan:
 1. Download repository
